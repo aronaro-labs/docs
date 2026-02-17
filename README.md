@@ -41,8 +41,8 @@ Long Eaton • Nottingham • Derby (UK)
 
 ## Socials (keep this updated)
 
-- YouTube: [ADD YOUR CHANNEL URL HERE]  
-- X: [ADD YOUR X PROFILE URL HERE]  
+- YouTube: https://www.youtube.com/@ARONAROLABS  
+- X: https://x.com/aronarolabs  
 - GitHub Org: https://github.com/aronaro-labs  
 
 ---
