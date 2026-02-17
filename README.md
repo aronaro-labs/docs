@@ -1,12 +1,12 @@
 # ARONARO LABS LTD — Documentation
 
-Aronaro Labs LTD builds lead-generation websites and digital infrastructure for UK SMEs.
+Aronaro Labs LTD builds lead-generation websites and supporting digital infrastructure for UK SMEs.
 
-This repository contains public-facing company information, operating notes, and repeatable delivery standards used across projects.
+This repository contains public-facing company information, delivery standards, and operating notes used across projects.
 
 ---
 
-## What we do
+## Services
 
 - Website design & redesign (lead generation)
 - Landing pages (conversion focused)
@@ -23,6 +23,15 @@ Long Eaton • Nottingham • Derby (UK)
 
 ---
 
+## What’s inside
+
+- Company overview and positioning notes
+- Service definitions and delivery standards (SOPs)
+- Repeatable checklists used across projects
+- Reference links to official profiles and channels
+
+---
+
 ## Links
 
 - Website: https://aronarolabs.co.uk  
@@ -30,7 +39,15 @@ Long Eaton • Nottingham • Derby (UK)
 
 ---
 
+## Socials (keep this updated)
+
+- YouTube: [ADD YOUR CHANNEL URL HERE]  
+- X: [ADD YOUR X PROFILE URL HERE]  
+- GitHub Org: https://github.com/aronaro-labs  
+
+---
+
 ## Contact
 
-For enquiries, project briefs, or audits, use the website contact form:
+Project enquiries and audits:
 https://aronarolabs.co.uk
